@@ -1,0 +1,28 @@
+
+.nav-link{
+  list-style: none;
+}
+.nav-link li{
+  margin-top: 10px;
+} 
+.nav-link a{
+  text-decoration: none;
+  color: white
+}
+.social a{
+    font-size: larger;
+    
+}
+.social {
+  padding-left: 10px;
+  
+}
+.social-logo a {
+  color: aliceblue;
+}
+
+.footer{
+  color: aliceblue;
+  display: flex;
+  align-items: flex-end;
+}

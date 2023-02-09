@@ -1,0 +1,72 @@
+
+.card-title {
+    color:aliceblue;
+    background-color: red;
+    width: 150px;
+    height: 30px;
+    border-radius: 10px;
+}
+.card-text {
+    font-weight: bold;
+    font-style: italic;
+}
+#p-text{
+    text-decoration-line: line-through;
+    color: darkgrey;
+}
+
+/* viewall */
+.card-title-viewall {
+    background-color:blueviolet ;
+    width: 60px;
+    height: 60px;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+}
+
+/* LastestProducts */
+.container-lastest {
+    background-color: #7f0904;
+    border-radius: 15px;
+    border: solid 3px #fed403;
+    
+}
+.container-lastest .banner{
+    border-radius: 15px;
+    border-bottom: solid 3px #fed403;
+}
+.container-lastest .sale{
+    margin-left: 500px;
+    margin-right: 500px;
+}
+.container-lastest .sale span{
+    margin-top: 5px;
+    background-color: #fed403 ;
+    border: solid 4px #af0000;
+    border-radius: 15px;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 25px;
+    text-align: center;
+}
+.container-lastest .h-100{
+    border-radius: 20px;
+    border: solid 4px #9b4de0;
+}
+.container-lastest .card-title {
+    border-radius: 15px 50px;
+    background-color:rgb(226, 43, 43) ;
+    color: #fed403;
+    padding-top: 10px;
+    height: 60px;
+    font-size: 25px;
+}
+.container-lastest .card-text {
+    font-size: 20px;
+}
+.container-lastest .card-link {
+    font-size: 22px;
+}
+
